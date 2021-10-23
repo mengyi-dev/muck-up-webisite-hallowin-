@@ -135,6 +135,9 @@ h2 {
         flex-wrap: wrap;
         width: 100%;
     }
+    .container .grid-12 .col-4 {
+        width: 100%;
+    }
     .grid-row .row-4 {
         width: 100%;
     }
